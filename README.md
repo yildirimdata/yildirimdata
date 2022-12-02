@@ -4,6 +4,7 @@
 Machine Learning, Deep learning, Scikit learn, NLP, Docker and other tools to collect, assess and interpret data.
 - 💞️ I’m looking to collaborate on projects which will enable me to improve my data analysis skills and to make a contribution for a fair world without cognitive biases.
 - 📫 It's easy to reach me. Just send an e-mail: yildirimkdata@gmail.com
+- for my linkedin : www.linkedin.com/in/k-yildirim-b54335255 
 
 <!---
 yildirimdata/yildirimdata is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
