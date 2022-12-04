@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @yildirimdata
-- 👀 I’m interested in phyton, data science, network analysis and cluster analysis. I'm especially curious about the use of digital tools on historical data. 
+- 👀 I’m interested in phyton, data science, data analysis, network analysis and cluster analysis. I'm especially curious about the use of digital tools on historical data. 
 - 🌱 After a boot camp on python, I’m currently learning tools of data analysis, statistisc, 
 Machine Learning, Deep learning, Scikit learn, NLP, Docker and other tools to collect, assess and interpret data.
-- 💞️ I’m looking to collaborate on projects which will enable me to improve my data analysis skills and to make a contribution for a fair world without cognitive biases.
+- 💞️ I’m looking to collaborate on projects which will enable me to improve my data analysis skills and to make a contribution for a fair world without "cognitive" biases.
 - 📫 It's easy to reach me. Just send an e-mail: yildirimkdata@gmail.com
 - for my linkedin : www.linkedin.com/in/k-yildirim-b54335255 
 
