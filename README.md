@@ -8,6 +8,7 @@
 - 📫 It's easy to reach me. Just send an e-mail at: yildirimkdata@gmail.com
 - 
 - for my linkedin : www.linkedin.com/in/k-yildirim-b54335255 
+- for my Tableau Public account: https://public.tableau.com/app/profile/yildirim8068
 
 <!---
 yildirimdata/yildirimdata is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
