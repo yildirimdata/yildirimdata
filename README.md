@@ -1,9 +1,10 @@
-- 👋 Hi, I’m @yildirimdata
-- 👀 I’m interested in  data science, data analysis, network analysis and cluster analysis. The use of SQL and main Python libraries such as NumPy, Pandas, Seaborn, Matplotlib, ScipPy for analysing and assessing data is one of my main interests. 
+- 👋 Hi, I'm @yildirimdata.
 
-- 🌱 You can find numerous notebooks and scripts in my GitHub account related to python, statistics, SQL, Tableau, data analysis with python tools such as NumPy, Pandas and data visualisation with Matplotlib, Pandas, and Seaborn. In addition I have added several notebooks on theoretical details and practice works on supervised and unsupervised machine learning, deep learning, and natural language processing models and how to deploy these models by using AWS, EC2, Sagemaker and tools such as streamlit.  I'm adding regularly new sources for Machine Learning, Deep learning, Scikit, NLP, Docker and other tools to collect, assess and interpret data. So, check it again in the future!
-- 
-- 💞️ I’m looking to collaborate on projects which will enable me to improve my data analysis/science skills and to make a contribution for a fair world without "cognitive" biases.
+- 👀 I'm passionate about the field of data science and data analysis.
+
+- 🌱 On my GitHub account, you'll discover a wide range of notebooks and scripts covering various aspects of data science. These include projects related to Python programming, statistical analysis, SQL queries, Tableau visualization, and data analysis using powerful Python tools like NumPy and Pandas. Additionally, I have curated several notebooks exploring the theoretical foundations and practical implementations of supervised and unsupervised machine learning algorithms, deep learning models, and natural language processing techniques. Furthermore, I delve into the deployment of these models using AWS, EC2, Sagemaker, and tools like Streamlit. I consistently update my repository with new resources on machine learning, deep learning, Scikit-learn, NLP, Docker, and other tools for data collection, assessment, and interpretation. Be sure to check back for updates!
+
+- 💞️ I'm actively seeking opportunities to collaborate on projects that allow me to enhance my data analysis and data science skills while making a meaningful contribution to creating a fair world free from "cognitive" biases. I'm passionate about leveraging data-driven insights to drive positive change and promote fairness and equality. If you have a project that aligns with these goals, I would be thrilled to explore potential collaborations and make a meaningful impact together.
 - 
 - 📫 It's easy to reach me. Just send an e-mail at: yildirimkdata@gmail.com
 - 
